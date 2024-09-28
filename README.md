@@ -1,9 +1,8 @@
 👋 Hi, I’m Nilakna
 
 ### :woman_technologist: About Me :
-- 🌱 I’m currently an undergraduate in electronics and telecommunication engineering
+- 🌱 I’m currently an undergraduate in electronics and telecommunication engineering.
 - 🤖 Interests: Electronics, robotics, and machine learning.
-- 📫 How to reach me: warushavithanand.22@uom.lk
 - ⚡ Fun fact: I love playing piano and clarinet.
 - 🔗 View my profile [here](https://nilaknaw.github.io)
 
@@ -21,19 +20,22 @@ You can click the Preview link to take a look at your changes.
 
 ### :hammer_and_wrench: Languages and Tools :
 
-#### Web and Mobile
-* Flutter
-* Firebase
-* Unity
+| Web and Mobile | Electronics | Programming |
+|-----|-----|----|
+| Flutter | Arduino | Python |
+| Firebase | Solidworks | C++ |
+| Unity | LTSpice | Matlab |
 
-#### Electronics
-* Arduino
-* Solidworks
-* LTSpice
+### 📫 How to reach me:
+- Email: warushavithanand.22@uom.lk / nilaknawarushavithana@gmail.com
+- LinkedIn: [nilakna-warushavithana](https://www.linkedin.com/in/nilakna-warushavithana/)
 
-#### Programming
-* Python
-* C++
+### 🚀 Projects:
+- **GreetFlood**: Flutter app with Unity AR feature for NBS methods. (World Wildlife Fund)
+- **ALPR**: Automatic license plate recognition with computer vision and deep learning in real time. (SLT Mobitel)
+- **NutriMithu**: Flutter app for healthy diet planning for Sri Lanka and Diet box CAD. [Repository Link](https://github.com/Platinum-Saber/Mecha_24)
+- **SmartGlow**: Electronics project of IoT smart bulb adapter.
+- **RightVote**: Flutter web app with AI chatbot for election prediction. [Repository Link](https://github.com/NilaknaW/llminator-app)
 
 <!---
 <div>
