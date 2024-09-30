@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 - **ALPR**: Automatic license plate recognition with computer vision and deep learning in real time. (SLT Mobitel)
 - **NutriMithu**: Flutter app for healthy diet planning for Sri Lanka and Diet box CAD. [Repository Link](https://github.com/Platinum-Saber/Mecha_24)
 - **SmartGlow**: Electronics project of IoT smart bulb adapter.
-- **RightVote**: Flutter web app with AI chatbot for election prediction. [Repository Link](https://github.com/NilaknaW/llminator-app)
+- **RightVote**: Flutter web app with AI chatbot for election prediction. [Web App repo](https://github.com/NilaknaW/llminator-app) [Project Repo](https://github.com/NaveenSanjaya/098_LLMinators)
 
 <!---
 <div>
