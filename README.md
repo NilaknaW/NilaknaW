@@ -37,6 +37,8 @@ You can click the Preview link to take a look at your changes.
 - **SmartGlow**: Electronics project of IoT smart bulb adapter.
 - **RightVote**: Flutter web app with AI chatbot for election prediction. [Web App repo](https://github.com/NilaknaW/llminator-app) [Project Repo](https://github.com/NaveenSanjaya/098_LLMinators)
 - **TransmittixApp**: App for communicating between two computers using BladeRf antennas and RTL-SDR. It can transmit audio, video, and images and features a live chat. [Repo Link](https://github.com/NilaknaW/TransmittixApp)
+- **Reconfigurable End Effector**: A robotic end effector for depalletization in supermarket logistics. [Repository](https://github.com/KavishkaJayakody/End_Effector)
+- **Low-power op-amp**: IC design of an op-amp with Sky130 PDK and tinytapeout submission for fabrication. [Repository](https://github.com/PravinduG/sky130_op_amp)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
